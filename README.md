@@ -1,10 +1,7 @@
 # HEROES APP
 Permite listar imágenes y buscar mediante fetch data del API de GIPHY.
 
-![img](https://i.imgur.com/ugKsQ4F.gif)
-
-### `demo online`
-Open [https://mcasaccio.github.io/heroes-app/](https://mcasaccio.github.io/heroes-app/) to view it in the browser.
+![img](https://i.imgur.com/xOWLqMO.png)
 
 
 ### `npm start`
